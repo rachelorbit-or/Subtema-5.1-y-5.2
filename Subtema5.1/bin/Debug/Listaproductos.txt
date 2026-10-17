@@ -1,3 +1,14 @@
- Agua
+Agua
 Leche
 Pan
+Huevos
+Galleta
+Fresa
+Durazno
+Yogurt griego
+Mandarina
+Mora
+Yuca
+Maíz
+Camote
+Tuna

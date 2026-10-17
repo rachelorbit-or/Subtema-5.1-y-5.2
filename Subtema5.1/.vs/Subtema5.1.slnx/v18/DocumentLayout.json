@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\UCA40402\\Desktop\\subtema 5.1 y 5.2\\Subtema-5.1-y-5.2\\Subtema5.1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58213A11-02C1-4665-B535-E8BBEAEA3902}|Subtema5.1.csproj|c:\\users\\uca40402\\desktop\\subtema 5.1 y 5.2\\subtema-5.1-y-5.2\\subtema5.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58213A11-02C1-4665-B535-E8BBEAEA3902}|Subtema5.1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\UCA40402\\Desktop\\subtema 5.1 y 5.2\\Subtema-5.1-y-5.2\\Subtema5.1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\UCA40402\\Desktop\\subtema 5.1 y 5.2\\Subtema-5.1-y-5.2\\Subtema5.1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T14:25:39.842Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
